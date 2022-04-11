@@ -1,0 +1,27 @@
+
+.bg1 {
+    background-color:rgb(255, 152, 56);
+    height: 100vh;
+}
+
+.txt1 {
+    color: rgb(255, 152, 56);
+}
+
+.img1 {
+    border-radius: 60%;
+    border: 10px;
+    border-color: white;
+    width: 250px;
+    height: 250px;
+}
+
+.tst1 {
+    margin-left: 15px;
+}
+
+#linha_horizontal {
+    width: 250px;
+    color:rgb(255, 152, 56);
+    border: 1px solid rgb(255, 152, 56);
+}
